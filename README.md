@@ -1,4 +1,4 @@
-## Hi there, I'm Yash Majithiya 👋
+## Hi there, I'm Nirav Chhabhaiya 👋
 
 - 🔭 I’m Full stack developer and Trainer
 - 🌱 I’m currently working on React Angular and NodeJS
@@ -67,3 +67,4 @@
 [twitter]: https://twitter.com/ChhabhaiyaNirav
 [github]: https://github.com/cbynirav
 [email]: mailto:cby.nirav@gmail.com
+
